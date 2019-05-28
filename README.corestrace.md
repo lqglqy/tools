@@ -18,3 +18,4 @@ Sample output looks like this:
         0x80483cd foo+0x9
         0x8048401 func+0x1f
         0x8048430 main+0x2d
+
